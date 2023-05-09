@@ -42,14 +42,14 @@
 },
  
  "my_data":[
-  {"title":"title1 ser","desc":"description1 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title2 ser","desc":"description2 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title3 ser","desc":"description3 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title4 ser","desc":"description4 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title5 ser","desc":"description5 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title6 ser","desc":"description6 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title7 ser","desc":"description7 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title8 ser","desc":"description8 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"}
+  {"title":"helper mod 1","desc":"Choo Choo Charles is a fictional character from the popular children's television show, Thomas & Friends. He is a steam engine who first appeared in the show's sixth season in 2002. The character quickly became a fan favorite due to his friendly demeanor, ","photo":"https://iili.io/HU3UAeR.jpg"},
+  {"title":"tips pak 2","desc":"hardworking attitude, and distinctive whistle. However, there is not much information available about Choo Choo Charles' origins or how he came to be part of the show's cast of characters. In this essay, we will explore what little is known about the character and his potential origins.","photo":"https://iili.io/HU3Uzga.jpg"},
+  {"title":"how to use this app 3","desc":"The Thomas & Friends television show is based on the Railway Series books, which were written by Reverend Wilbert Awdry and his son Christopher. ","photo":"https://iili.io/HU3Ux0g.jpg"},
+  {"title":"advice mod 4","desc":"The books were first published in 1945 and focused on the adventures of a group of steam engines who lived on the Island of Sodor. ","photo":"https://iili.io/HU3UTdJ.jpg"},
+  {"title":"helper pack 5","desc":"The series quickly became popular with children and has since spawned a wide range of merchandise, spin-off books, and a long-running television series.","photo":"https://iili.io/HU3Uu5v.jpg"},
+  {"title":"advance mod 6","desc":"Choo Choo Charles is not a character from the original Railway Series books. Instead, he was created specifically for the Thomas & Friends television show.","photo":"https://iili.io/HU3URbp.jpg"},
+  {"title":"tips pack 7","desc":"This means that his origins are not discussed in the books and are instead left up to interpretation by the show's writers and producers.","photo":"https://iili.io/HU3U7zN.webp"},
+  {"title":"how to use this app 8","desc":"One theory about Choo Choo Charles' origins is that he was inspired by a real-life steam engine.","photo":"https://iili.io/HU3v9fa.webp"}
    ]
  
 }
